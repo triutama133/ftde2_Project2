@@ -9,7 +9,8 @@ https://ayyoubmaulana.notion.site/DBT-Hands-On-dc4149f56bf24b9e8a32ce24ba1be540
 
 
 Berikut ini screenshot saat berhasil run dbt:
-https://github.com/triutama133/ftde2_Project2/blob/main/screenshot.png?raw=true
+
+(https://github.com/triutama133/ftde2_Project2/blob/main/Screenshot.png)
 
 
 
